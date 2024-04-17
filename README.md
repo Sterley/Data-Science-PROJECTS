@@ -22,3 +22,5 @@ Random forests.
 Unsupervised learning algorithms.
 ### tme-10
 K-means algorithm.
+
+## For more details see notebooks directly !
